@@ -1,0 +1,4 @@
+ENGLISH WORD,ENGLISH MEANING,COMPUTER SCIENCE MEANING,
+POINTER,A stick or a rod used for pointing,It is a variable whose value is address of another variable,
+HEAP,Large amount of number,To allocate memory,
+STACK,Pile of objects that are neatly arranged,It is a data structure used to store collection of objects,
